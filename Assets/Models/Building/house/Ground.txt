@@ -1,0 +1,15 @@
+1001|MucaoFarm|牧草场|200|
+1002|ShucaiFarm|蔬菜农场|300|
+1003|MianhuaFarm|棉花农场|400|
+1004|XiaomaiFarm|小麦农场|400|
+1005|YaocaoFarm|药草农场|400|
+1006|PingguoFarm|苹果农场|400|
+1007|Famuchang|伐木场|400|
+1101|ChickenFarm|养鸡场|600|
+1102|AlpacaRanch|羊驼场|1000|
+1103|CowPasture|奶牛场|800|
+1104|SericultureFarm|养蚕场|800|
+1201|MaterialFactory|物品加工厂|2000|
+1202|TextileMill|炼金小屋|2000|
+1203|Zhimuchang|制木厂|2000|
+1301|Shop|商店|2000|

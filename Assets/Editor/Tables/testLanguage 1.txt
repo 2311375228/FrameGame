@@ -1,0 +1,58 @@
+herbes fourragères
+légumes
+coton
+blé
+pommes
+herbes
+bois
+tomates
+minerais de fer
+minerais de cuivre
+mines d'argent
+pierres d'or
+boeuf
+lait
+peaux
+laine
+viandes de porc
+oeufs
+poulet
+soies
+agneaux
+blocs de fer
+blocs de cuivre
+blocs d'argent
+pépites d'or
+planches en bois
+crèmes
+catalyseurs
+pierres cristallines
+pierres renforcées
+épées en bois
+Roches rouges
+plaques métalliques minces
+clous
+médicaments de retour de sang
+médicaments de récupération physique
+médicaments améliorant la force
+potions de vitesse
+farines
+aliments pour animaux
+tissus
+soies
+purée d'herbe
+pains
+kebabs
+champignons végétaux
+soupes aux champignons
+poulets grillés
+steaks frits
+champignons
+minerais magiques
+fluides de conversion de substances
+eaux énergisantes
+potions mystérieuses
+riches minerais
+eaux minérales
+bouteilles magiques
+fruits magiques
